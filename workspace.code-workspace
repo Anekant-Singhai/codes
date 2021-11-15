@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../python_basics"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../cryptohack"
+		}
+	],
+	"settings": {}
+}
